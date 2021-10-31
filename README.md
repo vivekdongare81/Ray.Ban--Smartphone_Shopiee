@@ -3,7 +3,7 @@
 A Responsive E-Commerce Webpage with Visual of Smartphone Shop.
 Deployed- 
 
-![Screenshot (148)](https://user-images.githubusercontent.com/74758376/139577087-0d01a1f3-eda6-472a-8027-2b68d6014874.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/74758376/139577403-c31b0f0d-f043-4d32-ae68-f345d646cf0d.png)
 
 ![Screenshot (150)](https://user-images.githubusercontent.com/74758376/139577196-719b6284-93b8-4241-be24-82353d9b31c6.png)
 
